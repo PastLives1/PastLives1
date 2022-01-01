@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PastLives1
+- 👋 Hi, I’m PastLives
 - 👀 I’m interested in learning programming languages
 - 🌱 I’m currently learning python and JavaScript
 - 💞️ I’m looking to collaborate on projects I guess
