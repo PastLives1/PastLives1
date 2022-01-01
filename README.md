@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PastLives
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning python and JavaScript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects I guess
 - 📫 How to reach me. discord: PastLives#8439
 
